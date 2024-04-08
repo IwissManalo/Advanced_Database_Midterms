@@ -4,4 +4,4 @@
   
 <br>💾This project aims to demonstrate proficiency in database design, implementation, and integration within a real-world application context. </p>
 
-<br>© Irish Manalo & Ralph Benedict Vicente🖱️
+<br>© Irish Manalo & Ralph Benedict Vicente.🖱️
